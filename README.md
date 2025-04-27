@@ -34,14 +34,14 @@ This Excel-based project follows a **3-layer architecture**:
 
 ---
 
-## 🧾 Datasource
-The dataset was gotten from om a tutorial on youtube by Evergreen Digital Tech Solution.
+## 🧾 Data source
+The dataset was gotten from a tutorial on youtube by Evergreen Digital Tech Solution.
 https://www.youtube.com/watch?v=vlrTMK6zbw0
 
 
 ## 🧾 Dataset Description
 
-The dataset used in this project captures real-life finance entries across various categories from January 2021 to October 2021:
+The dataset used in this project from January 2021 to October 2021, captures real-life finance entries across various categories from January 2021 to October 2021:
 
 | Column Name      | Description                                   |
 |------------------|-----------------------------------------------|
