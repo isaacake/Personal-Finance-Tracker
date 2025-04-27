@@ -3,14 +3,7 @@ This project presents a comprehensive financial tracking dashboard created in Mi
 
 ---
 
-## 📸 Visual Preview
-<img width="623" alt="Personal Finance Tracker" src="https://github.com/user-attachments/assets/1aea2328-b142-4c9d-bdc2-cf613528a289" />
-
-
-
----
-
-## TABLE OF CONTENT
+## 📖 TABLE OF CONTENT
 
 - [Visual Preview](#visual-Preview)
 - [Project Structure](#project-Structure)
@@ -23,6 +16,12 @@ This project presents a comprehensive financial tracking dashboard created in Mi
 - [Tools And Techniques](#tools-and-Techniques)
 - [INSIGHTS](#insights)
 - [RECOMMENDATIONS](#recommendations)
+
+---
+
+## 📸 Visual Preview
+<img width="623" alt="Personal Finance Tracker" src="https://github.com/user-attachments/assets/1aea2328-b142-4c9d-bdc2-cf613528a289" />
+
 
 ---
 ## 📂 Project Structure
